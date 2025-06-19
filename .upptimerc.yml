@@ -47,10 +47,23 @@ i18n:
   activeIncidents: Aktif Vakalar
   allSystemsOperational: Tüm sistemler çalışır durumda
   incidentReport: "Vaka #$NUMBER Raporu →"
-  incidentTitle: Vaka $NUMBER Detayları
+  incidentTitle: "Vaka #$NUMBER Detayları"
   incidentDetails: Vaka Detayları
+  incidentBack: ← Tüm Vakalara Geri Dön
+  pastIncidents: Geçmiş Vakalar
+  pastScheduledMaintenance: Geçmiş Planlı Bakım Çalışmaları
+  scheduledMaintenance: Planlı Bakım Çalışmaları
+  startedAt: "Başlangıç:"
+  startsAt: "Başlangıç:"
+  scheduledMaintenanceSummaryStarted: "Başlangıç $DATE / $DURATION dakika"
+  scheduledMaintenanceSummaryStarts: "Başlangıç $DATE / $DURATION dakika"
+  incidentCompleted: Tamamlandı
+  incidentScheduled: Planlandı
+  incidentViewOnGitHub: GitHub üzerinden İncele ve Takip Et
   liveStatus: Canlı Durum
   loading: Yükleniyor
+  duration: Süre
+  durationMin: $DURATION dakika
   duration24H: "24 Saat"
   duration7D: "7 Gün"
   duration30D: "30 Gün"

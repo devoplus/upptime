@@ -42,7 +42,19 @@ status-website:
       href: /
 
 i18n:
+  activeIncidents: Aktif Vakalar
   allSystemsOperational: Tüm sistemler çalışır durumda
+  incidentReport: "Vaka #$NUMBER Raporu →"
+  incidentTitle: Vaka $NUMBER Detayları
+  incidentDetails: Vaka Detayları
+  liveStatus: Canlı Durum
+  loading: Yükleniyor
+  duration24H: "24 Saat"
+  duration7D: "7 Gün"
+  duration30D: "30 Gün"
+  duration1Y: "1 Yıl"
+  durationAll: "Tümü"
+  locale: tr-TR
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

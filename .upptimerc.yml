@@ -54,6 +54,10 @@ i18n:
   duration30D: "30 Gün"
   duration1Y: "1 Yıl"
   durationAll: "Tümü"
+  overallUptime: "Uptime: $UPTIME"
+  overallUptimeTitle: Uptime
+  averageResponseTime: "Ortalama Yanıt Süresi: $TIMEms"
+  averageResponseTimeTitle: Ortalama Yanıt Süresi
   locale: tr-TR
 
 # Upptime also supports notifications, assigning issues, and more

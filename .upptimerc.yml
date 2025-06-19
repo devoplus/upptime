@@ -8,6 +8,22 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Devoplus Portal
+    url: https://portal.devoplus.com.tr
+    expectedStatusCodes:
+      - 200  
+  - name: Devoplus SSO
+    url: https://sso.devoplus.com.tr
+    expectedStatusCodes:
+      - 200
+  - name: URL Shortener Service
+    url: https://dv.ls
+    expectedStatusCodes:
+      - 200
+  - name: Mail Queue Handler Service
+    check: "tcp-ping"
+    url: smtp-relay.devoplus.email
+    port: 587
   
 
 status-website:
@@ -20,10 +36,8 @@ status-website:
   introTitle: "**Devoplus** Servis Durumu"
   introMessage: Bu panel, Devoplus altyapısına ait servislerin mevcut çalışma durumunu, geçmiş olay geçmişini ve planlı bakım süreçlerini şeffaf bir şekilde sunmak amacıyla hazırlanmıştır. Sistem izleme mekanizmalarımız; API uç noktaları, veri işleme hatları, kullanıcı arayüzleri ve entegrasyon servisleri dahil olmak üzere tüm temel bileşenlerdeki performans ve sürekliliği sürekli olarak denetlemektedir. Herhangi bir anomali veya kesinti tespit edildiğinde ilgili bilgilendirme otomatik olarak burada yayınlanır. Hizmet sürekliliğini önceliğimiz olarak görüyor, kullanıcılarımıza kesintisiz bir deneyim sağlamak için proaktif olarak çalışıyoruz.
   navbar:
-    - title: Status
+    - title: Servis Durumu
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

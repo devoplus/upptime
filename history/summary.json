@@ -15,7 +15,10 @@
     "timeWeek": 443,
     "timeMonth": 443,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-17": 3,
+      "2025-02-06": 62
+    }
   },
   {
     "name": "Devoplus Portal",
@@ -33,7 +36,9 @@
     "timeWeek": 480,
     "timeMonth": 480,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 62
+    }
   },
   {
     "name": "Devoplus SSO",
@@ -51,7 +56,9 @@
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 62
+    }
   },
   {
     "name": "URL Shortener Service",
@@ -69,7 +76,9 @@
     "timeWeek": 668,
     "timeMonth": 668,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 62
+    }
   },
   {
     "name": "Mail Queue Handler Service",
@@ -87,6 +96,8 @@
     "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 62
+    }
   }
 ]

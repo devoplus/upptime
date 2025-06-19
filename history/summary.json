@@ -8,17 +8,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {
-      "2025-06-17": 3,
-      "2025-02-06": 62
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Devoplus Portal",
@@ -30,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 480,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
-    "dailyMinutesDown": {
-      "2025-02-06": 62
-    }
+    "uptimeYear": "100.00%",
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Devoplus SSO",
@@ -50,15 +45,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
-    "dailyMinutesDown": {
-      "2025-02-06": 62
-    }
+    "uptimeYear": "100.00%",
+    "time": 485,
+    "timeDay": 485,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
+    "dailyMinutesDown": {}
   },
   {
     "name": "URL Shortener Service",
@@ -70,15 +63,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 668,
-    "timeDay": 668,
-    "timeWeek": 668,
-    "timeMonth": 668,
-    "timeYear": 668,
-    "dailyMinutesDown": {
-      "2025-02-06": 62
-    }
+    "uptimeYear": "100.00%",
+    "time": 734,
+    "timeDay": 734,
+    "timeWeek": 734,
+    "timeMonth": 734,
+    "timeYear": 734,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail Queue Handler Service",
@@ -90,14 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
-    "dailyMinutesDown": {
-      "2025-02-06": 62
-    }
+    "uptimeYear": "100.00%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {}
   }
 ]

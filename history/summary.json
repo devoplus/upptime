@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.devoplus.com.tr.ico",
     "slug": "devoplus-api",
     "status": "up",
-    "uptime": "2.41%",
-    "uptimeDay": "2.41%",
-    "uptimeWeek": "2.41%",
-    "uptimeMonth": "2.41%",
-    "uptimeYear": "2.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 505,
     "timeWeek": 505,
     "timeMonth": 505,
     "timeYear": 505,
-    "dailyMinutesDown": {
-      "2025-06-19": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]

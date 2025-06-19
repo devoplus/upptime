@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.devoplus.com.tr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/devoplus/upptime/master/assets/dp-icon.png
   name: Devoplus
   introTitle: "**Devoplus** Servis Durumu"
   introMessage: Bu panel, Devoplus altyapısına ait servislerin mevcut çalışma durumunu, geçmiş olay geçmişini ve planlı bakım süreçlerini şeffaf bir şekilde sunmak amacıyla hazırlanmıştır. Sistem izleme mekanizmalarımız; API uç noktaları, veri işleme hatları, kullanıcı arayüzleri ve entegrasyon servisleri dahil olmak üzere tüm temel bileşenlerdeki performans ve sürekliliği sürekli olarak denetlemektedir. Herhangi bir anomali veya kesinti tespit edildiğinde ilgili bilgilendirme otomatik olarak burada yayınlanır. Hizmet sürekliliğini önceliğimiz olarak görüyor, kullanıcılarımıza kesintisiz bir deneyim sağlamak için proaktif olarak çalışıyoruz.

@@ -9,6 +9,9 @@ sites:
     url: https://en.wikipedia.org
   - name: Devoplus API
     url: https://api.devoplus.com.tr
+    expectedStatusCodes:
+      - 200
+      - 401
   
 
 status-website:

@@ -34,6 +34,7 @@ status-website:
   cname: uptime.devoplus.com.tr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/devoplus/upptime/master/assets/dp-icon.png
+  favicon: https://www.devoplus.com.tr/favicon.png
   name: Devoplus
   introTitle: "**Devoplus** Servis Durumu"
   introMessage: Bu panel, Devoplus altyapısına ait servislerin mevcut çalışma durumunu, geçmiş olay geçmişini ve planlı bakım süreçlerini şeffaf bir şekilde sunmak amacıyla hazırlanmıştır. Sistem izleme mekanizmalarımız; API uç noktaları, veri işleme hatları, kullanıcı arayüzleri ve entegrasyon servisleri dahil olmak üzere tüm temel bileşenlerdeki performans ve sürekliliği sürekli olarak denetlemektedir. Herhangi bir anomali veya kesinti tespit edildiğinde ilgili bilgilendirme otomatik olarak burada yayınlanır. Hizmet sürekliliğini önceliğimiz olarak görüyor, kullanıcılarımıza kesintisiz bir deneyim sağlamak için proaktif olarak çalışıyoruz.

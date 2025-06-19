@@ -46,8 +46,8 @@ status-website:
 i18n:
   activeIncidents: Aktif Vakalar
   allSystemsOperational: Tüm sistemler çalışır durumda
-  incidentReport: "Vaka #$NUMBER Raporu →"
-  incidentTitle: "Vaka #$NUMBER Detayları"
+  incidentReport: "Vaka Raporu: Vaka #$NUMBER →"
+  incidentTitle: "Vaka Detayları: Vaka #$NUMBER"
   incidentDetails: Vaka Detayları
   incidentBack: ← Tüm Vakalara Geri Dön
   pastIncidents: Geçmiş Vakalar

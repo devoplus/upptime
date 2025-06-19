@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 121,
+    "timeDay": 121,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://api.devoplus.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/api.devoplus.com.tr.ico",
     "slug": "devoplus-api",
-    "status": "down",
-    "uptime": "10.28%",
-    "uptimeDay": "10.28%",
-    "uptimeWeek": "10.28%",
-    "uptimeMonth": "10.28%",
-    "uptimeYear": "10.28%",
-    "time": 654,
-    "timeDay": 654,
-    "timeWeek": 654,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "status": "up",
+    "uptime": "2.41%",
+    "uptimeDay": "2.41%",
+    "uptimeWeek": "2.41%",
+    "uptimeMonth": "2.41%",
+    "uptimeYear": "2.41%",
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-06-19": 0
+      "2025-06-19": 3
     }
   }
 ]

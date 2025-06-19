@@ -17,8 +17,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Devoplus
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Devoplus** Servis Durumu"
+  introMessage: Bu panel, Devoplus altyapısına ait servislerin mevcut çalışma durumunu, geçmiş olay geçmişini ve planlı bakım süreçlerini şeffaf bir şekilde sunmak amacıyla hazırlanmıştır. Sistem izleme mekanizmalarımız; API uç noktaları, veri işleme hatları, kullanıcı arayüzleri ve entegrasyon servisleri dahil olmak üzere tüm temel bileşenlerdeki performans ve sürekliliği sürekli olarak denetlemektedir. Herhangi bir anomali veya kesinti tespit edildiğinde ilgili bilgilendirme otomatik olarak burada yayınlanır. Hizmet sürekliliğini önceliğimiz olarak görüyor, kullanıcılarımıza kesintisiz bir deneyim sağlamak için proaktif olarak çalışıyoruz.
   navbar:
     - title: Status
       href: /

@@ -38,7 +38,6 @@ status-website:
   name: Devoplus
   introTitle: "**Devoplus** Servis Durumu"
   introMessage: Bu panel, Devoplus altyapısına ait servislerin mevcut çalışma durumunu, geçmiş olay geçmişini ve planlı bakım süreçlerini şeffaf bir şekilde sunmak amacıyla hazırlanmıştır. Sistem izleme mekanizmalarımız; API uç noktaları, veri işleme hatları, kullanıcı arayüzleri ve entegrasyon servisleri dahil olmak üzere tüm temel bileşenlerdeki performans ve sürekliliği sürekli olarak denetlemektedir. Herhangi bir anomali veya kesinti tespit edildiğinde ilgili bilgilendirme otomatik olarak burada yayınlanır. Hizmet sürekliliğini önceliğimiz olarak görüyor, kullanıcılarımıza kesintisiz bir deneyim sağlamak için proaktif olarak çalışıyoruz.
-  css: ":root { --nav-current-border-bottom-color: #bc1a1a !important; --body-background-color: #fbfbfb !important; }"
   navbar:
     - title: Servis Durumu
       href: /

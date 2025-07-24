@@ -1,7 +1,7 @@
 url: https://api.devoplus.com.tr
-status: up
-code: 401
-responseTime: 360
-lastUpdated: 2025-07-23T23:14:18.555Z
+status: down
+code: 503
+responseTime: 798
+lastUpdated: 2025-07-24T19:56:57.697Z
 startTime: 2025-06-19T06:24:43.866Z
 generator: Upptime <https://github.com/upptime/upptime>

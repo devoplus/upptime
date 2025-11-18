@@ -1,7 +1,7 @@
 url: https://dv.ls
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2025-11-18T12:35:35.867Z
+status: down
+code: 500
+responseTime: 342
+lastUpdated: 2025-11-18T13:17:39.189Z
 startTime: 2025-06-19T07:19:34.771Z
 generator: Upptime <https://github.com/upptime/upptime>

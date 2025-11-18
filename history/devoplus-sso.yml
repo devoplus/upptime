@@ -1,7 +1,7 @@
 url: https://sso.devoplus.com.tr
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2025-11-17T23:12:37.703Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-11-18T11:56:21.774Z
 startTime: 2025-06-19T07:19:33.761Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -9,6 +9,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+      - 403
   - name: Devoplus Portal
     url: https://portal.devoplus.com.tr
     expectedStatusCodes:

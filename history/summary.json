@@ -6,9 +6,9 @@
     "slug": "devoplus-api",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 318,
     "timeDay": 205,
@@ -16,8 +16,7 @@
     "timeMonth": 197,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-11-18": 139,
-      "2026-08-31": 8
+      "2025-11-18": 139
     }
   },
   {
@@ -26,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.devoplus.com.tr.ico",
     "slug": "devoplus-portal",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "80.44%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "74.89%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.82%",
     "time": 533,
     "timeDay": 87,
     "timeWeek": 345,
@@ -43,7 +42,8 @@
       "2026-01-15": 18,
       "2026-04-17": 86,
       "2026-07-29": 230,
-      "2026-08-31": 282
+      "2026-09-01": 46,
+      "2026-08-31": 315
     }
   },
   {
@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.devoplus.com.tr.ico",
     "slug": "devoplus-sso",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "80.46%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.87%",
+    "uptimeDay": "74.90%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.86%",
     "time": 561,
     "timeDay": 45,
     "timeWeek": 316,
@@ -66,7 +66,8 @@
       "2025-11-18": 118,
       "2025-12-16": 47,
       "2026-07-29": 229,
-      "2026-08-31": 281
+      "2026-09-01": 46,
+      "2026-08-31": 315
     }
   },
   {
